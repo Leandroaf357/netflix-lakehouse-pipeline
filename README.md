@@ -32,7 +32,7 @@ The pipeline is fully orchestrated using Databricks Jobs with strict dependencie
 The Gold layer tables are connected to Power BI Desktop. The dashboard was designed focusing on UI/UX best practices, utilizing a dark theme to match the Netflix branding and featuring dynamic cross-filtering.
 
 ### 🎥 Dashboard Preview
-<video src="E-commerce.mp4" controls="controls" width="100%"></video>
+<video src="https://github.com/Leandroaf357/netflix-lakehouse-pipeline/raw/main/E-commerce.mp4" controls="controls" width="100%"></video>
 
 ## 💡 Key Learnings
 * Building resilient PySpark code with `try-except` blocks.
