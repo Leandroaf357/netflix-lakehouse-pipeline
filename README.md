@@ -33,7 +33,7 @@ The Gold layer tables are connected to Power BI Desktop. The dashboard was desig
 
 ![Dashboard Executivo da Netflix](E-commerce.png)
 
-<video src="E-commerce.mp4" controls="controls" width="100%"></video>
+![Dashboard Executivo da Netflix](E-commerce.gif)
 
 ## 💡 Key Learnings
 * Building resilient PySpark code with `try-except` blocks.
