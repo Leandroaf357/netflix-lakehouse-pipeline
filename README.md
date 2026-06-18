@@ -29,13 +29,13 @@ The pipeline is fully orchestrated using Databricks Jobs with strict dependencie
    * Aggregates the clean data into three distinct Business Data Marts optimized for BI consumption.
 
 ## 📊 Business Intelligence Dashboard
-The Gold layer tables are connected to Power BI Desktop. The dashboard was designed focusing on UI/UX best practices, utilizing a dark theme to match the Netflix branding.
+The Gold layer tables are connected to Power BI Desktop. The dashboard was designed focusing on UI/UX best practices, utilizing a dark theme to match the Netflix branding and featuring dynamic cross-filtering.
 
-![Dashboard Executivo da Netflix](E-commerce.png)
-
+### 🎥 Dashboard Preview
 <video src="E-commerce.mp4" controls="controls" width="100%"></video>
 
 ## 💡 Key Learnings
 * Building resilient PySpark code with `try-except` blocks.
 * Managing state and dependencies in Databricks Clusters.
 * Resolving Unity Catalog pathing and file system (`dbutils.fs`) references.
+* Connecting Power BI directly to Databricks clusters using Personal Access Tokens.
