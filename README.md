@@ -31,7 +31,7 @@ The pipeline is fully orchestrated using Databricks Jobs with strict dependencie
 ## 📊 Business Intelligence Dashboard
 The Gold layer tables are connected to Power BI Desktop. The dashboard was designed focusing on UI/UX best practices, utilizing a dark theme to match the Netflix branding.
 
-*(E-commerce.gif, E-commerce.png)*
+![Dashboard Executivo da Netflix](dashboard.png)
 
 ## 💡 Key Learnings
 * Building resilient PySpark code with `try-except` blocks.
